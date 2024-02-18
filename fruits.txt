@@ -1,3 +1,5 @@
 apple
-banana
+double banana
 mango
+kiwi
+grapes
